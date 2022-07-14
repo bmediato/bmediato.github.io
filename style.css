@@ -1,11 +1,32 @@
-h1,h2, h3 {
+h1 {
     font-family: 'Arima', cursive;
+    text-align: center;
+    text-decoration:underline;
+}
+h2, h3{
+    font-family: 'Arima', cursive;
+    color:#ea9ab2;
 }
 .list {
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 20px;
-    font-weight: 100;
+    font-size: 25px;
+    font-weight:100px;
 }
 body {
-    background-color:#ffddd2;
+    background-color:#dbe9ee;
+    font-size: 20px;
+}
+.picture {
+    border-radius: 20%;
+}
+p{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:bold;
+}
+.color{
+    font-size: 1.3em;
+    font-weight: bolder;
+}
+.number {
+    font-size: 1.15em;
 }
