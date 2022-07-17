@@ -12,7 +12,7 @@ h2, h3{
     font-style: italic;
 }
 body {
-    background-color:#83c5be;
+    background-color:#edf6f9;
     font-size: 20px;
     padding:1%;
 }
@@ -21,14 +21,14 @@ body {
     float: left;
     width: 170px;
     padding: 20px ;
-    background-color: #edf6f9;
+    background-color: #83c5be;
 }
 p{
     font-family: 'Josefin Sans', sans-serif;
     font-weight:bold;
 }
 div {
-    border: 2px solid #edf6f9;
+    border: 2px solid #006d77;
 }
 .lado {
 height: 300px;
